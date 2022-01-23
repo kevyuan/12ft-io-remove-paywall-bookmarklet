@@ -19,8 +19,8 @@ Warning: The page will be modified by 12ft.io. I have no idea what information i
 ### Installation
 
 #### Method 1: Click and drag
-1. Drag the link below onto your bookmarks bar to automatically create the bookmarklet
-2. <a href="javascript:(()=>{window.open('https://12ft.io/'+window.location.href,'_self')})();">Remove Paywall</a>
+1. Go to this [page](https://kevyuan.github.io/12ft-io-remove-paywall-bookmarklet/12ft-io-remove-paywall-bookmarklet.html)
+2. Drag the <a href="javascript:(()=>{window.open('https://12ft.io/'+window.location.href,'_self')})();">Remove Paywall</a> link onto your bookmarks bar
 
 #### Method 2: Manually create new bookmark
 1. Or create a new bookmark using this code block:
