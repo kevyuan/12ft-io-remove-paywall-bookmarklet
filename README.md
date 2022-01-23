@@ -9,7 +9,7 @@ This bookmarklet does the following:
 * Prepends "https://12ft.io" to the URL
 * Opens it in the same window
 
-Warning: The page will be modified by 12ft.io. I do not know if any data is collected by 12ft.io. Use at your own discretion. 
+Warning: The page will be modified by 12ft.io. I am not familiar with the data collection policy from 12ft.io. Use at your own discretion. 
 
 ## Getting Started
 
