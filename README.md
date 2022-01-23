@@ -7,7 +7,7 @@ A simple bookmarklet to remove a paywall from an URL.
 This bookmarklet does the following:
 * Takes the URL in the current window
 * Prepends "https://12ft.io" to the URL
-* Opens it in the same window with the paywall removed
+* Opens it in the same window -- and with the paywall removed from the page
 
 Warning: The page will be modified by 12ft.io. I am not familiar with the data collection policy from 12ft.io. Use at your own discretion. 
 
