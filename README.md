@@ -23,7 +23,7 @@ Warning: The page will be modified by 12ft.io. I am not familiar with the data c
 2. Drag the <a href="javascript:(()=>{window.open('https://12ft.io/'+window.location.href,'_self')})();">Remove Paywall</a> link onto your bookmarks bar
 
 #### Method 2: Manually create new bookmark
-1. Or create a new bookmark using this code block:
+1. Create a new bookmark using this code block:
 
 ```
 javascript: (() => {
