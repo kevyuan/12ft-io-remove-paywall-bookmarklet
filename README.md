@@ -22,7 +22,7 @@ Warning: The page will be modified by 12ft.io. I am not familiar with the data c
 1. Drag this "<a href="javascript:(()=>{window.open('https://12ft.io/'+window.location.href,'_self')})();">Remove Paywall</a>" link onto your bookmarks bar
 2. If the above link does not show, go [here](https://kevyuan.github.io/12ft-io-remove-paywall-bookmarklet/) first
 
-#### Method 3: Manually create new bookmark
+#### Method 2: Manually create new bookmark
 1. Create a new bookmark using this code block:
 
 ```
